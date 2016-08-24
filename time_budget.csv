@@ -1,0 +1,46 @@
+Observations:,,,,,,,,,
+1-4,,,,,,,,,
+,,,,,,,,,
+Independent variables:,,,,,,,,,
+redo,,,,,,,,,
+T2,,,,,,,,,
+female,,,,,,,,,
+T3,,,,,,,,,
+outcome,,,,,,,,,
+round,,,,,,,,,
+T1,,,,,,,,,
+time,,,,,,,,,
+treatment,,,,,,,,,
+male,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Time budget:,,,,,,,,,
+Subject,Behavior,Modifiers,Total number,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total media length
+,,,,,,,,,
+female,copulate,-,0,-,-,-,-,-,-
+female,escape,,6,-,-,-,75.354,76.43,-
+female,grapple,,1,17.135,17.135,NA,NA,NA,1.7
+female,insert,-,0,-,-,-,-,-,-
+female,lost,,6,60.504,10.084,6.904,119.009,81.469,6.1
+female,move,-,0,-,-,-,-,-,-
+female,orient,toward,50,-,-,-,14.272,27.548,-
+female,orient,away,41,-,-,-,12.249,30.76,-
+female,sidle,-,0,-,-,-,-,-,-
+female,vibrate,-,0,-,-,-,-,-,-
+female,walk,away,4,5.3,1.325,0.875,162.964,189.259,0.5
+female,walk,toward,2,1.45,0.725,0.247,0.675,NA,0.1
+female,wave,,4,9.824,2.456,0.969,73.418,115.191,1.0
+male,copulate,,1,61.313,61.313,NA,NA,NA,6.2
+male,escape,-,0,-,-,-,-,-,-
+male,grapple,-,0,-,-,-,-,-,-
+male,insert,right,1,61.313,61.313,NA,NA,NA,6.2
+male,lost,,6,9.629,1.605,1.521,81.442,88.98,1.0
+male,move,,82,34.296,0.418,0.248,5.272,22.042,3.4
+male,orient,toward,55,-,-,-,11.773,15.711,-
+male,orient,away,55,-,-,-,11.689,21.833,-
+male,sidle,,6,139.391,23.232,14.175,59.04,72.562,14.0
+male,vibrate,,1,112.252,112.252,NA,NA,NA,11.3
+male,walk,toward,15,14.641,0.976,0.893,39.352,69.835,1.5
+male,walk,neutral,5,8.103,1.621,0.846,71.014,113.454,0.8
+male,walk,away,6,4.8,0.8,0.474,48.876,62.95,0.5
+male,wave,,5,848.91,169.782,71.382,2.606,2.299,85.3
